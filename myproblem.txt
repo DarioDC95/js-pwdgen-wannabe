@@ -1,0 +1,7 @@
+GENERARE PASSWORD CASUALE(INSICURA)
+
+1- Chiedere il nome
+2- Chiedere il cognome
+3- Chiedere il colore preferito
+4- Far collidere i valori e aggiungere il n°21 alla fine
+5- Aggiungere il risultato all'HTML
